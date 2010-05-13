@@ -1,0 +1,5 @@
+Release icons/sounds from other options once tree advances.
+Strip text from icons, render localized strings
+Icon reordering
+  Just store ordered list of file names in dir in a file?
+  Core data?

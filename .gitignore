@@ -1,0 +1,8 @@
+*.tmproj
+.DS_Store
+.rake_tasks
+doc/app
+log
+tmp
+build
+*.swp
