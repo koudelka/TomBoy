@@ -2,6 +2,8 @@ TomBoy is a "needs-based" AAC (Augmentative and Alternative Communication) appli
 
 It's generally designed for non-verbal folks, but anyone that can find a use for it is welcome to do so.
 
+There are some screenshots over on the wiki: http://wiki.github.com/koudelka/TomBoy
+
 This is the initial release of TomBoy, there are more planned features, but I don't know when I'll be able to get to them, any contributions to the codebase are encouraged. :)
 
 For more information on ACC, check out the Wikipedia page: http://en.wikipedia.org/wiki/Augmentative_and_alternative_communication
